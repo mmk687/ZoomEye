@@ -8,8 +8,8 @@ import time
 page = 1
 # ZoomEye' Info (Person)
 # 输入个人账号密码
-user = '512948434@qq.com'
-passwd = 'wazj929511'
+user = ''
+passwd = ''
 
 def Check():
 	#POST get access_token
